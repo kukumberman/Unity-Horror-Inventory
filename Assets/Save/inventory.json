@@ -1,0 +1,44 @@
+{
+    "Items": [
+        {
+            "Id": "id_item_battery",
+            "Amount": 1
+        },
+        {
+            "Id": "id_item_glock17",
+            "Amount": 1
+        },
+        {
+            "Id": "id_item_pipe",
+            "Amount": 1
+        },
+        {
+            "Id": "id_item_mag",
+            "Amount": 1
+        },
+        {
+            "Id": "id_item_battery",
+            "Amount": 1
+        },
+        {
+            "Id": "id_item_glock17",
+            "Amount": 1
+        },
+        {
+            "Id": "id_item_pipe",
+            "Amount": 1
+        },
+        {
+            "Id": "id_item_mag",
+            "Amount": 1
+        },
+        {
+            "Id": "id_item_mag",
+            "Amount": 1
+        },
+        {
+            "Id": "id_item_junk",
+            "Amount": 1
+        }
+    ]
+}
